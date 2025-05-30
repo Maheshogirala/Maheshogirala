@@ -1,6 +1,6 @@
 <!-- Header with profile image -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/129881178?s=400&u=a2f2bfd88ad71b4b1624274aaa9d9a3b6a2436fd&v=4" alt="Mahesh Ogirala">
+  <img src="https://avatars.githubusercontent.com/u/129881178?s=400&u=a4884971ba007d7a0eda1c195b9f900ea0c5a37e&v=4" alt="Mahesh Ogirala">
 </p>
 
 <h1 align="center">Hi there 👋, I'm Mahesh Ogirala</h1>
