@@ -13,7 +13,7 @@
 
 ## 🧑‍💻 About Me
 
-🔍 Passionate QA Engineer with **2.9+ years** of experience in:
+🔍 Passionate QA Engineer with **3 years** of experience in:
 
 - ✅ Manual & Automation Testing
 - 💻 Web & Mobile Applications
